@@ -50,7 +50,7 @@ public class DetailActivity extends AppCompatActivity {
         if (idiem == R.id.about){
             getSupportFragmentManager().beginTransaction().replace(R.id.framefrag, new AboutFragment()).commit();
         }
-        else if (idiem == R.id.change){
+        else if (idiem == R.id.favourites){
             Intent intent = new Intent(Settings.ACTION_LOCALE_SETTINGS);
             startActivity(intent);
         }

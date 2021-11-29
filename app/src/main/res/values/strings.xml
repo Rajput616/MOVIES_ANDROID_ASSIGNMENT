@@ -5,8 +5,9 @@
     <string name="release_date">Release Date :</string>
     <string name="synopsis">Synopsis :</string>
     <string name="translate_to">Change Language</string>
+    <string name="favourites" translatable="false">Favourites</string>
     <string name="about">About</string>
-    <string name="aboutappisi">This application was created using Android Studio using the Java programming language, contents of the movie list using a recycler view taken from the JSON api using volley assisted by using the singletron pattern. then there is the localization feature where the localized language will follow the native language. so, have fun!</string>
+    <string name="aboutappisi">This application was created using Android Studio using the Java programming language, contents of the movie list using a recycler view taken from the JSON api using volley assisted by using the singleton pattern. then there is the localization feature where the localized language will follow the native language. so, have fun!</string>
     <string name="about_app">About App</string>
     <string name="app_author">Created by</string>
 </resources>
